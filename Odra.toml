@@ -1,0 +1,7 @@
+[[contracts]]
+name = "banana_token"
+fqn = "banana_token::BananaToken"
+
+[[contracts]]
+name = "monkey_show"
+fqn = "banana_token::MonkeyShow"
